@@ -1,4 +1,4 @@
-# Material for the "Time Series Analysis and Prediction" workshop with a focus on the Earth Sciences of the Data Science Center, University of Bremen.
+## Material for the workshop "Time Series Analysis and Prediction" with focus on Earth Sciences at the Data Science Center (DSC), University of Bremen.
 
 The repository consists of:
 - Notebooks (Python notebooks for time series analysis and prediction)
