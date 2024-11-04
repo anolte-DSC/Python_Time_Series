@@ -15,6 +15,7 @@ The notebooks contain:
 - D) Earth Sciences examples
 
 To install the libraries open your terminal (or command prompt) and run the following command: pip install -r requirements.txt
+
 In Jupyter Notebook, you can also run shell commands like `pip install -r requirements.txt` directly from a code cell by prefixing the command with an exclamation mark (`!`): !pip install -r requirements.txt
 
 The material was developed by Annika Nolte and Maryam Movahedifar. The sources and references for images and datasets are given in the notebooks. The "C) Time series statistics" notebooks contain code from the following workbook: Huang, C. and Petukhina, A.: Applied time series analysis and forecasting with Python, Springer, 2022.
